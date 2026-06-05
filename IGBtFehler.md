@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="logorw96.jpg" alt="LogoRw" />
+  <img src="logorw96.png" alt="LogoRw" />
 </div>
 
 # Zusatz zur Abhandlung: Sinnvolle Messungen zur Fehleranalyse an einem Waschmaschinen-Inverter mit IR2101 und IGBT
+
+![Rw](Igbt_Bild.png)
 
 ## 1. Zweck dieses Zusatzes
 
