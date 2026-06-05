@@ -62,3 +62,5 @@ Die Anwendung realisiert einen zuverlässigen **Fernzugriff** und eine **Visuali
 ### Monitoring & Benutzerschnittstelle (Fernzugriff)
 * **PC (Visu):** Stationäre oder detaillierte grafische Benutzeroberfläche zur Anlagenüberwachung und Konfiguration.
 * **Handy (Meldungen):** Mobiler Empfang von Statusmeldungen, Störungsmeldungen oder Alarmen in Echtzeit.
+  
+![AlteIGBT](igbt_Bild.png)
